@@ -7,3 +7,8 @@
 It's like an auto-clicker<br><br>
 This bot doesn't use the JSON files<br><br>
 Even if the arrows move, the bot is able to hit them at the right time<br><br>
+
+[![Some FNF gif and music](https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif)](https://user-images.githubusercontent.com/82078037/136268792-4f3bc12b-1112-4b44-8ecd-39041f7aa484.mov)
+
+
+
