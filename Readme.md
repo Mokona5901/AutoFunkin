@@ -1,6 +1,6 @@
-<h1>AutoFNF</h1>
+<h1>AutoFunkin'</h1>
 <p align="center">
-  AutoFNF is a bot for<br>
+  AutoFunkin is a bot for<br>
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif/revision/latest/scale-to-width-down/250?cb=20210412015112"><br><br><p/>
 This bot is different of FNFBot because the concept of this bot is when it notices an arrow or more, it clicks on it<br><br>
 It's like an auto-clicker<br><br>
