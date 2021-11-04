@@ -3,7 +3,9 @@ import threading
 import PySimpleGUI as sg
 from pynput.keyboard import Listener, KeyCode
 
-layout = [[sg.Text("Please select your mod :")], [sg.Button("OK")]]
+layout = [
+            [sg.Text("Please select your mod :")], [sg.Button("OK")]
+         ]
 
 # Create the window
 window = sg.Window("AutoFunkin'", layout)
@@ -35,8 +37,8 @@ selection = (
 width = max(map(len, selection))+1
 
 layout = [
-    [sg.Combo(selection, size=(width, 5), enable_events=True, key='-COMBO-')]
-]
+            [sg.Combo(selection, size=(width, 5), enable_events=True, key='-COMBO-')]
+         ]
 
 window = sg.Window("Title", layout, finalize=True)
 combo = window['-COMBO-']
