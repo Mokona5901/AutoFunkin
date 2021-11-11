@@ -19,7 +19,8 @@ while True:
 
 window.close()
 
-selection = (
+selection =
+(
 '31 Minutos','A.G.O.T.I.','ABSOLUTE RAGE','ALL-OUT','Abandoned Arcade Machine',
 'Abigail','Ace','Aflac','Ambion Corrupt Frenzy','Amogus','Anders','Ankha','Annie',
 'Arcade Showdown - Vs. Kapi','Arch','Auditor','Auditricky','Ayana','B-Side Ron',
@@ -59,7 +60,8 @@ selection = (
 'The Impostor Boyfriend Saga','The Monstrosity of Experiments','Times & Tribulations',
 'Tinky Winky','Tord','Tree','Tricky','Trollface','Trollface/Trollge','Trollge',
 'Viernes Noche Webiando’','Void','Weeg Mod','Weegee','Whitty','Windows XP','X-Event',
-'Xe','Yukichi','Yung Lixo','Zardy')
+'Xe','Yukichi','Yung Lixo','Zardy'
+)
 
 width = max(map(len, selection))+1
 
