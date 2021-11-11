@@ -10,5 +10,8 @@ Created by [Mokona5901](https://github.com/Mokona5901)
 
 Le bot crée une sorte de ligne qui relie chague flèche et capte quand une flèche passe sur la ligne 
 Tasks :
-- [ ] Choose mod
+- [X] Choose mod
+- [ ] Choose song
+- [ ] Game overlay
+- [ ] Working
 
