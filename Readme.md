@@ -6,10 +6,10 @@ This bot is different of FNFBot because the concept of this bot is when it notic
 It's like an auto-clicker<br><br>
 This bot doesn't use the JSON files<br><br>
 Even if the arrows move, the bot is able to hit them at the right time<br><br>
-Created by [Mokona5901](https://github.com/Mokona5901)
-
-Le bot crée une sorte de ligne qui relie chague flèche et capte quand une flèche passe sur la ligne 
+Created by Mokona5901<br><br>
+The bot creates a kind of line that connects each arrow and picks up when an arrow crosses the line<br><br>
 Tasks :
+
 - [X] Choose mod
 - [ ] Choose song
 - [ ] Game overlay
