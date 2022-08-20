@@ -11,8 +11,7 @@ Created by Mokona5901<br><br>
 The bot creates a kind of line that connects each arrow and picks up when an arrow crosses the line<br><br>
 Tasks :
 
-- [ ] Choose mod
-- [ ] Choose song
 - [ ] Game overlay
+- [ ] Seeing arrows
 - [ ] Working
 
