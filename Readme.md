@@ -7,7 +7,7 @@ It's like an auto-clicker<br><br>
 This bot doesn't use the JSON files like FNFBot<br><br>
 Created in Python<br><br>
 Even if the arrows move, the bot is able to hit them at the right time<br><br>
-Created by Mokona5901<br><br>
+Created by [myself](https://github.com/Mokona5901)<br><br>
 The bot creates a kind of line that connects each arrow and picks up when an arrow crosses the line<br><br>
 Tasks :
 
