@@ -1,0 +1,1 @@
+../build-Debug/AutoFunkin/EvtFramePrincipal.cpp.o ../build-Debug/AutoFunkin/MyApp.cpp.o ../build-Debug/AutoFunkin/FramePrincipal.cpp.o
